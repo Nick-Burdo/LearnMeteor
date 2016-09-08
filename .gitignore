@@ -4,8 +4,3 @@
 
 # IntelliJ project files
 .idea/
-.gitignore
-.meteor/
-client/
-package.json
-server/
