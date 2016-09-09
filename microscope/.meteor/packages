@@ -23,3 +23,6 @@ mizzao:bootstrap-3
 iron:router
 sacha:spin
 session
+mrt:accounts-ui-bootstrap-dropdown
+npm-bcrypt
+accounts-password
