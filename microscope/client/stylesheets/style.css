@@ -30,6 +30,10 @@ body {
     border-radius: 0px 0px 3px 3px;
 }
 
+.navbar .navbar-header {
+    padding: 15px;
+}
+
 #spinner {
     height: 300px;
 }

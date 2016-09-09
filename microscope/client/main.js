@@ -1,2 +1,2 @@
-
+Session.set('pageTitle', 'Microscope');
 
